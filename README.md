@@ -1,6 +1,8 @@
 # CommonExpandableListAdapterDemo
-万能ExpandableListAdapter适配器，只需要提供child,和group的layout资源
 
+引入地址: compile 'com.github.sam474850601:fastutils:1.0.3'
+
+万能ExpandableListAdapter适配器，只需要提供child,和group的layout资源
 实例代码
 
 
